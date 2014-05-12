@@ -5,7 +5,7 @@ function()
 {
     (function()
         {
-            //ingresar(getEmailUsuario(),getClave());
+            ingresar(getEmailUsuario(),getClave());
         })();
 }
     );
